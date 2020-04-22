@@ -6,7 +6,8 @@ This screening aid is based on recommendations from the Centers for Disease Cont
 Always consult a medical professional when needed.
 
 To be functional, the application will require access the following:
-	-   A service to authenticate users
-    -	A service to get additional information about the authenticated user
-    -	A backend database to save user attestation data 
+- A service to authenticate users
+- A service to get additional information about the authenticated user
+- A backend database to save user attestation data
+
 
