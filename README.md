@@ -1,4 +1,4 @@
-# Test-COVIDPass
+# COVID Pass
 COVID Pass is not a substitute for professional medical advice, diagnosis, or treatment. It is only for screening related to COVID-19. 
 
 This screening aid is based on recommendations from the Centers for Disease Control and Prevention, the Massachusetts Department of Public Health, and Partners HealthCare experts. Screening criteria in other states may be different.
