@@ -1,4 +1,5 @@
-COVID-19 PASS
+# COVID-19 PASS
+
 End User License Agreement  (“EULA”)
 
 This EULA is a contract between The Brigham and Women’s Hospital (“HOSPITAL”) and you (each a “Party”, and collectively the “Parties”) and provides you with a license to use “COVID-19 Pass,” (the “Software Tool”) subject to the terms and conditions set forth below.  
