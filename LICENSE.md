@@ -1,4 +1,4 @@
-# COVID-19 PASS
+# COVID Pass
 
 ## End User License Agreement  (“EULA”)
 
