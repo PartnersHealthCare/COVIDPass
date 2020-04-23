@@ -10,6 +10,6 @@ To be functional, the application will require access to the following:
 - A service to get additional information about the authenticated user
 - A backend database to save user attestation data
 
-#### Please read the license agreement before proceeding ####
+#### Please read the license agreement before proceeding. ####
 
 
